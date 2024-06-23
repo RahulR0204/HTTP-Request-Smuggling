@@ -118,7 +118,3 @@ cd smuggler
 ```
 
 Explore the code and documentation to understand and defend against HTTP Request Smuggling attacks effectively.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
